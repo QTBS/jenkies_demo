@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-22T14:05:05 IST" name="Default suite" finished-at="2021-11-22T14:05:05 IST" duration-ms="357">
+    <groups>
+    </groups>
+    <test started-at="2021-11-22T14:05:05 IST" name="Default test" finished-at="2021-11-22T14:05:05 IST" duration-ms="357">
+      <class name="Test_NG_Demo.testng.DataProviderDemo">
+        <test-method signature="loginToBrowser(java.lang.String,java.lang.String)[pri:0, instance:Test_NG_Demo.testng.DataProviderDemo@6ac13091]" started-at="2021-11-22T14:05:05 IST" name="loginToBrowser" data-provider="Demo_credentials" finished-at="2021-11-22T14:05:05 IST" duration-ms="30" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[u1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToBrowser -->
+        <test-method signature="loginToBrowser(java.lang.String,java.lang.String)[pri:0, instance:Test_NG_Demo.testng.DataProviderDemo@6ac13091]" started-at="2021-11-22T14:05:05 IST" name="loginToBrowser" data-provider="Demo_credentials" finished-at="2021-11-22T14:05:05 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[u2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToBrowser -->
+        <test-method signature="loginToBrowser(java.lang.String,java.lang.String)[pri:0, instance:Test_NG_Demo.testng.DataProviderDemo@6ac13091]" started-at="2021-11-22T14:05:05 IST" name="loginToBrowser" data-provider="Demo_credentials" finished-at="2021-11-22T14:05:05 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[u3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToBrowser -->
+      </class> <!-- Test_NG_Demo.testng.DataProviderDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
